@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/wrench-crm/static/css/main.7c6ef1f7.css",
+    "main.js": "/wrench-crm/static/js/main.3ce9df5d.js",
+    "static/media/Montserrat-Bold.woff": "/wrench-crm/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff",
+    "static/media/Montserrat-Medium.woff": "/wrench-crm/static/media/Montserrat-Medium.d42dad28f6470e5162c2.woff",
+    "static/media/Montserrat-SemiBold.woff": "/wrench-crm/static/media/Montserrat-SemiBold.197213592de7a2a62e06.woff",
+    "static/media/Montserrat-Bold.woff2": "/wrench-crm/static/media/Montserrat-Bold.cfceaf4e74789fc9df24.woff2",
+    "static/media/Montserrat-Medium.woff2": "/wrench-crm/static/media/Montserrat-Medium.d6bbb7c3c86aa8edcd0a.woff2",
+    "static/media/Montserrat-SemiBold.woff2": "/wrench-crm/static/media/Montserrat-SemiBold.1d679c8257a6a9caa9bd.woff2",
+    "static/media/settings.svg": "/wrench-crm/static/media/settings.5f34416c13daeeb8ee88249b200d9df9.svg",
+    "static/media/table.svg": "/wrench-crm/static/media/table.402c784bea251e7c98642f1c7e2d4122.svg",
+    "static/media/calculator.svg": "/wrench-crm/static/media/calculator.2c816d683e839613161ea4c6673cd1bd.svg",
+    "static/media/exit.svg": "/wrench-crm/static/media/exit.e753b4570f4150d0049d7be2b422fe52.svg",
+    "static/media/searchBlack.svg": "/wrench-crm/static/media/searchBlack.d8347e497c563b76dd9bc26547780f54.svg",
+    "static/media/searchWhite.svg": "/wrench-crm/static/media/searchWhite.3f7818f3d64d579c54611ea178fbbc23.svg",
+    "static/media/profileWhite.svg": "/wrench-crm/static/media/profileWhite.b085495dfa72b87d3fec.svg",
+    "static/media/home.svg": "/wrench-crm/static/media/home.64ec2f263da2e80f21192bf4806923bb.svg",
+    "static/media/profileBlack.svg": "/wrench-crm/static/media/profileBlack.7d428781cda3acc22d73d083ef30c246.svg",
+    "static/media/map.svg": "/wrench-crm/static/media/map.7703ccf1efdc3a29d340baa5b5d8ae0f.svg",
+    "static/media/calendar.svg": "/wrench-crm/static/media/calendar.b438cff0dd507044c3994ce268576c9b.svg",
+    "static/media/key.svg": "/wrench-crm/static/media/key.6693014964598003db3f.svg",
+    "index.html": "/wrench-crm/index.html",
+    "static/media/widget.svg": "/wrench-crm/static/media/widget.c9299d23c7ec2b0c14b0320a9324fc92.svg",
+    "static/media/menu.svg": "/wrench-crm/static/media/menu.bd97ffcd223d212f7e59.svg",
+    "static/media/arrow.svg": "/wrench-crm/static/media/arrow.fe04bfe848e3ad61738b.svg",
+    "static/media/close.svg": "/wrench-crm/static/media/close.dbda6cf979efee894a98.svg",
+    "main.7c6ef1f7.css.map": "/wrench-crm/static/css/main.7c6ef1f7.css.map",
+    "main.3ce9df5d.js.map": "/wrench-crm/static/js/main.3ce9df5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c6ef1f7.css",
+    "static/js/main.3ce9df5d.js"
+  ]
+}
