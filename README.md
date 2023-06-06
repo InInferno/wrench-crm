@@ -1,5 +1,6 @@
 # Wrench CRM (wrench-crm)
 
+- Ссылка на gh-pages: [Wrench CRM](https://ininferno.github.io/wrench-crm/ "Wrench CRM")
 - Ссылка на репозиторий: [GitHub Wrench CRM](https://github.com/InInferno/wrench-crm "Wrench CRM")
 - Версия: v. 0.0.1
 
