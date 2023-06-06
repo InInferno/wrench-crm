@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wrench-crm/static/css/main.7c6ef1f7.css",
-    "main.js": "/wrench-crm/static/js/main.3ce9df5d.js",
+    "main.js": "/wrench-crm/static/js/main.27d6fd35.js",
     "static/media/Montserrat-Bold.woff": "/wrench-crm/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff",
     "static/media/Montserrat-Medium.woff": "/wrench-crm/static/media/Montserrat-Medium.d42dad28f6470e5162c2.woff",
     "static/media/Montserrat-SemiBold.woff": "/wrench-crm/static/media/Montserrat-SemiBold.197213592de7a2a62e06.woff",
@@ -26,10 +26,10 @@
     "static/media/arrow.svg": "/wrench-crm/static/media/arrow.fe04bfe848e3ad61738b.svg",
     "static/media/close.svg": "/wrench-crm/static/media/close.dbda6cf979efee894a98.svg",
     "main.7c6ef1f7.css.map": "/wrench-crm/static/css/main.7c6ef1f7.css.map",
-    "main.3ce9df5d.js.map": "/wrench-crm/static/js/main.3ce9df5d.js.map"
+    "main.27d6fd35.js.map": "/wrench-crm/static/js/main.27d6fd35.js.map"
   },
   "entrypoints": [
     "static/css/main.7c6ef1f7.css",
-    "static/js/main.3ce9df5d.js"
+    "static/js/main.27d6fd35.js"
   ]
 }
