@@ -1,0 +1,69 @@
+@import "../../assets/styles/global.scss";
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 16px 32px;
+  background-color: $color-purple-100;
+  color: $color-white;
+
+  @media (max-width: $l) {
+    padding: 16px 16px;
+  }
+}
+
+.box {
+  display: flex;
+  align-items: center;
+
+  &__icon {
+    display: flex;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 48px;
+    height: 48px;
+    margin-right: 24px;
+
+    @media (max-width: $l) {
+      width: 32px;
+      height: 32px;
+      margin-right: 16px;
+    }
+  }
+
+  &__icon:hover {
+    cursor: pointer;
+    opacity: .8;
+  }
+
+  &__icon:active {
+    cursor: pointer;
+    opacity: .5;
+  }
+
+  &__icon_logo {
+    background-image: url('../../assets/images/icons/key.svg');
+  }
+
+  &__icon_profile {
+    background-image: url('../../assets/images/icons/profileWhite.svg');
+  }
+
+  &__icon_menu {
+    display: none;
+    background-image: url('../../assets/images/icons/menu.svg');
+
+    @media (max-width: $l) {
+      display: flex;
+    }
+  }
+
+  &__text {
+    @media (max-width: $m) {
+      display: none;
+    }
+  }
+}

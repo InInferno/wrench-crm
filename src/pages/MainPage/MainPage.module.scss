@@ -1,0 +1,53 @@
+@import "../../assets/styles/global.scss";
+
+.mainPage {
+  display: flex;
+  max-height: calc(100vh - 80px);
+  min-height: calc(100vh - 80px);
+  padding: 32px 0 0 32px;
+
+  @media (max-width: $l) {
+    max-height: calc(100vh - 64px);
+    min-height: calc(100vh - 64px);
+  }
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  margin-bottom: 16px;
+  font-weight: 700;
+}
+
+.subTitle {
+  margin-bottom: 24px;
+}
+
+.news {
+  overflow: auto;
+  padding-right: 32px;
+
+  &__text {
+    margin-bottom: 24px;
+  }
+
+  &__link {
+    color: $color-blue-200;
+    border-bottom: 1px solid $color-blue-200;
+  }
+}
+
+.news::-webkit-scrollbar {
+  height: 4px;
+  width: 4px;
+  background-color: $color-white;
+}
+
+.news::-webkit-scrollbar-thumb {
+  background-color: $color-purple-100;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
